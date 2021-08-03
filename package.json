@@ -48,6 +48,7 @@
     "babel-relay-plugin": "0.9.3",
     "isomorphic-relay": "https://github.com/meisheep/isomorphic-relay.git",
     "react": "^16.3.0",
+    "react-dom": "^16.3.0",
     "react-relay": "^1.7.0",
     "react-router": "^3.2.6"
   },
